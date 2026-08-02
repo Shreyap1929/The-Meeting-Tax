@@ -1,0 +1,11 @@
+pandas==2.2.3
+numpy==2.1.1
+faker==28.4.1
+sqlalchemy==2.0.36
+psycopg2-binary==2.9.10
+streamlit==1.39.0
+scipy==1.14.1
+statsmodels==0.14.4
+matplotlib==3.9.2
+seaborn==0.13.2
+jupyter==1.1.1

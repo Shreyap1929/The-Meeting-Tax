@@ -108,6 +108,11 @@ The productivity analysis uses employee-week pulse data and calculates the Pears
 > **Note:** Correlation does not imply causation. The productivity analysis shows an observed relationship and does not establish that meetings directly cause changes in productivity.
 
 ---
+## Output 
+<img width="1912" height="808" alt="image" src="https://github.com/user-attachments/assets/ae9b4448-44c6-45af-ba56-c1bbe475f45c" />
+<img width="1917" height="533" alt="image" src="https://github.com/user-attachments/assets/a7ac21a1-1820-4212-95c7-fe45d7d021da" />
+<img width="1904" height="893" alt="image" src="https://github.com/user-attachments/assets/f4422c6c-e4bf-4a0c-91e2-cf518fbc30f7" />
+
 
 ## 🔮 Future Improvements
 
